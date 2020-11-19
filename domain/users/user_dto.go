@@ -1,8 +1,8 @@
 package users
 
 import (
-	"strings"
 	"github.com/crispgit/bookstore_utils-go/rest_errors"
+	"strings"
 )
 
 const (

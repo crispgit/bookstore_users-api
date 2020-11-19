@@ -1,10 +1,10 @@
 package mysql_utils
 
 import (
+	"errors"
+	"github.com/crispgit/bookstore_utils-go/rest_errors"
 	"github.com/go-sql-driver/mysql"
 	"strings"
-	"github.com/crispgit/bookstore_utils-go/rest_errors"
-	"errors"
 )
 
 const (
